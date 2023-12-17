@@ -5,11 +5,10 @@ https://github.com/ossu/computer-science
 
 ## Purpose
 I'm excited to share the OSSU Introduction to Computer Science course, tailored for data analytics professionals like me with a BS and MS in Data Analytics. Here's why I think it's valuable:
-Why It's Great for Data Analytics Pros
 
 Solid Foundations: Even with my advanced degrees, the basic computer science principles taught here are invaluable.
 
-Programming Skills: It covers essential programming languages like Python, enhancing my data handling capabilities.
+Programming Skills: It covers essential programming languages like Python in a general framework instead of highly specific to data flat files/sql pulls, enhancing my data handling capabilities.
     
 Algorithmic Thinking: Improving my ability to think algorithmically has been crucial for efficient data processing.
     
